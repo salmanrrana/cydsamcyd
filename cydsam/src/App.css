@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0,0,0,.96);
+}
+
+.navimage {
+  background: url('./assests/img/pic1.jpg') no-repeat center center;
+}
+
+.header {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: .09em;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.navLink {
+  transition: 0.3s ease;
+  color: #FFFCE8;
+  font-size: 20px;
+  text-decoration: none;
+  border-top: 4px solid rgba(0,0,0,.0);
+  border-bottom: 4px solid rgba(0,0,0,.0);
+  padding: 20px 0;
+  margin: 0 20px;
+}
+
+.content {
+  font-family: 'Cabin', sans-serif;
+  color: white;
+  letter-spacing: .09em;
+}
+
+.nav{
+  margin-top: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+.navLink:hover {
+  color: #D7C0D0;
+  border-top: 1px solid #D7C0D0;
+  border-bottom: 1px solid #D7C0D0;
+  padding: 6px 0;
+}
