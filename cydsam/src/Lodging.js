@@ -5,27 +5,6 @@ class Lodging extends Component {
     return(
       <div>
         <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
-        <h2>Lodging</h2>
       </div>
 
     )

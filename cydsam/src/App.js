@@ -21,6 +21,7 @@ class App extends Component {
           <div className="content">
             {this.props.children}
           </div>
+          {/* <img src={bar} className='navpic'></img> */}
         </div>
       </div>
     );

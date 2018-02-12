@@ -5,27 +5,6 @@ class Registry extends Component {
     return(
       <div>
         <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
-        <h2>REGISTRY Page</h2>
       </div>
 
     )

@@ -5,15 +5,6 @@ class Rehersal extends Component {
     return(
       <div>
         <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
-        <h2>Rehersal Page</h2>
       </div>
 
     )

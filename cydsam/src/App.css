@@ -7,10 +7,24 @@
   flex-direction: column;
   background-color: rgba(0,0,0,.96);
 }
+.navpic{
 
+}
 .navimage {
   background: url('./assests/img/pic1.jpg') no-repeat center center;
+  width:2000px;
+  height: 1500px;
+  margin: auto;
+  /* display: grid;
+  grid-template-columns: repeat(auto-fill); */
 }
+
+@media(max-width: 1999px) {
+  .navimage {
+    width: 100%;
+  }
+}
+
 
 .header {
   font-family: 'Raleway', sans-serif;

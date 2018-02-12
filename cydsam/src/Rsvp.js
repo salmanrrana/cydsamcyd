@@ -5,15 +5,6 @@ class Rsvp extends Component {
     return(
       <div>
         <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
-        <h2>Rsvp Page</h2>
       </div>
 
     )
